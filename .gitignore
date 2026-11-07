@@ -1,0 +1,4 @@
+.legwork/
+node_modules/
+mods/jumpycritter/*.d.ts
+mods/jumpycritter/jsconfig.json
