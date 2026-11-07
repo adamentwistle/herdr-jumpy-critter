@@ -2,7 +2,7 @@
 
 A one-button game to play while your agents work. Flap the little Claude character through the gaps between stacks of terminals.
 
-![Jumpy Critter](preview.png)
+![Jumpy Critter mid-run in its overlay over a Herdr window](preview.png)
 
 A mod for the [Herdr](https://github.com/ogulcancelik/herdr) desktop app. It runs on the mod API alone. It was run in a real Herdr 0.1.13 window on Windows at zoom 1.2. It hasn't been run on macOS or Linux.
 
