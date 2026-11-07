@@ -2,7 +2,7 @@
 
 A one-button game in a dialog over the window. A small pixel character flaps through gaps between stacks of terminal windows, scrolling right to left, while your agents work.
 
-![Jumpy Critter](preview.png)
+![Jumpy Critter mid-run in its overlay over a Herdr window](preview.png)
 
 ## What you see
 
